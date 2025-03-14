@@ -14,9 +14,9 @@ document
       if (convertedPinNumber === 1234) {
         window.location.href = 'main.html';
       } else {
-        alert('Pin thik nai!');
+        alert('Invalid pin!');
       }
     } else {
-      alert('accountnumber thik nai');
+      alert('Invalid account number');
     }
   });
