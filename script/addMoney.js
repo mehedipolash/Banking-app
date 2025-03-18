@@ -46,10 +46,10 @@ document
 
 
       } else {
-        alert('Pin thik nai!');
+        alert('Invalid pin!');
       }
     } else {
-      alert('accountnumber thik nai');
+      alert('Invalid account number!');
     }
 
 
